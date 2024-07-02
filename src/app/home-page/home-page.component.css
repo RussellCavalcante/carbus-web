@@ -29,11 +29,11 @@ html{
     scroll-behavior: smooth;
 }
 
-body{
+/* body{
     max-width: 12000px;
     min-width: 300px; 
     background: rgba(248, 248, 255, 1);
-   }
+   } */
 
 a{text-decoration: none;}
 li{margin: 0;gap:0;}

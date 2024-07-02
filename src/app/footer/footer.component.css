@@ -1,0 +1,16 @@
+footer {
+    background-color: #333;
+    padding: 20px 0;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .logo-footer img {
+    height: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .escrita p {
+    margin: 5px 0;
+  }
+  

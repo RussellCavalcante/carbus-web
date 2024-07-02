@@ -1,0 +1,11 @@
+
+/* app.component.css */
+.cc {
+    background-color: rgb(97, 143, 101); /* Cor de fundo */
+    /* Ou */
+    /* background-image: url('caminho/para/sua/imagem.jpg'); */
+    /* Imagem de fundo */
+    background-size: cover; /* Ajuste para cobrir todo o elemento */
+    background-position: center; /* Posição central da imagem */
+    /* Outras propriedades de estilização conforme necessário */
+}

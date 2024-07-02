@@ -1,0 +1,33 @@
+#sobre-nos {
+    padding: 40px 20px;
+    background: #fff;
+  }
+  
+  #historia h2 {
+    color: #e44d26;
+    font-size: 2em;
+  }
+  
+  #historia p {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
+  .side {
+    margin-top: 20px;
+  }
+  
+  .values-container {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .value {
+    text-align: center;
+  }
+  
+  .value figure {
+    font-size: 2em;
+    color: #333;
+  }
+  
