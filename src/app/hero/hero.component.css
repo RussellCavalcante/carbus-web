@@ -26,3 +26,10 @@
     height: auto;
   }
   
+  @media (max-width: 700px) {
+    .hero {
+        text-align: center;
+        padding: 230px 20px;
+        background: #f4f4f4;
+      }
+  }
