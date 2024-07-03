@@ -68,7 +68,7 @@ header {
       transform: translateX(-50%);
       filter: blur(5px); /* Mantém o desfoque aplicado */
       z-index: -1; /* Coloca o logo atrás dos itens do menu */
-      /* display: none; */
+      display: none;
     }
   }
   
